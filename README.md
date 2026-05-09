@@ -23,13 +23,9 @@ languages:
   - javascript
   - python
   - php
-  - go
-  - rust
 
-tools:
-  - linux
-  - docker
-  - vscode
+# Tools I Use
+<img src="https://skillicons.dev/icons?i=python,php,mysql,git,linux,vscode" />
 
 # current_ops
 - building startup-grade systems
