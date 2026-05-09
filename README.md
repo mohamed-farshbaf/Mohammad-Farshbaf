@@ -1,16 +1,53 @@
-## Hi there 👋
+# whoami
+full-stack engineer | systems | security
 
-<!--
-**rootshade/rootshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# philosophy
+code is noise
+systems are signal
 
-Here are some ideas to get you started:
+# focus
+- backend architecture
+- linux & os internals
+- networking & system security
+- performance & failure handling
+- ai as a tool, not magic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# strengths
+- backend-first logic
+- security by default
+- close-to-the-metal thinking
+- building for real conditions
+
+# stack
+languages:
+  - javascript
+  - python
+  - php
+  - go
+  - rust
+
+tools:
+  - linux
+  - docker
+  - vscode
+
+# current_ops
+- building startup-grade systems
+- deepening knowledge in:
+  - linux internals
+  - networking & security
+  - system design
+  - applied ai
+
+# contact
+talk_to_me_about:
+  - backend
+  - linux
+  - networking
+  - security
+  - systems
+
+# status
+quiet
+focused
+building
