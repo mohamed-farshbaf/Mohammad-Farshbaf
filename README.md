@@ -27,7 +27,7 @@ systems are signal
 ---
 
 # stack
-<img src="https://skillicons.dev/icons?i=python,js,php,mysql,linux,git,docker,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,php,mysql,linux,Kali,git,docker,nginx,vscode" />
 
 ---
 
