@@ -25,9 +25,9 @@ systems are signal
 - building for real conditions
 
 ---
-
 # stack
-<img src="https://skillicons.dev/icons?i=python,js,php,mysql,linux,Kali,git,docker,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,php,mysql,git,docker,nginx,vscode" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 ---
 
