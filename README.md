@@ -1,9 +1,13 @@
 # whoami
 full-stack engineer | systems | security
 
+---
+
 # philosophy
 code is noise
 systems are signal
+
+---
 
 # focus
 - backend architecture
@@ -12,20 +16,20 @@ systems are signal
 - performance & failure handling
 - ai as a tool, not magic
 
+---
+
 # strengths
 - backend-first logic
 - security by default
 - close-to-the-metal thinking
 - building for real conditions
 
-# stack
-languages:
-  - javascript
-  - python
-  - php
+---
 
-# Tools I Use
-<img src="https://skillicons.dev/icons?i=python,php,mysql,git,linux,vscode" />
+# stack
+<img src="https://skillicons.dev/icons?i=python,js,php,mysql,linux,git,docker,nginx,vscode" />
+
+---
 
 # current_ops
 - building startup-grade systems
@@ -35,6 +39,8 @@ languages:
   - system design
   - applied ai
 
+---
+
 # contact
 talk_to_me_about:
   - backend
@@ -42,6 +48,8 @@ talk_to_me_about:
   - networking
   - security
   - systems
+
+---
 
 # status
 quiet
