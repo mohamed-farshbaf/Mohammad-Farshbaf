@@ -1,71 +1,69 @@
-# Mohammad Farshbaf
+# `rootshade` — Mohammad Farshbaf
 
-### Developer | Systems | Networking | Security
+### Developer · Systems · Networking · Security
 
-I build software and explore the systems behind it.
+> Building software. Understanding systems. Improving security.
 
-My interests include software engineering, backend architecture, Linux, networking, and practical security.
+I'm a developer interested in building practical software and understanding the infrastructure behind it.
 
----
-
-### About Me
-
-- Building **NEXO**, a team and task management platform.
-- Exploring modern web development with Next.js, React, and TypeScript.
-- Working with Python, Django, HTML, CSS, and WordPress.
-- Learning Linux administration, Docker, networking, and system security.
-- Interested in reliable architecture, secure systems, and clean code.
+My work and learning focus on web development, application architecture, Linux, networking, and system security.
 
 ---
 
-### Tech Stack & Tools
+### `01 / ABOUT`
+
+- Building **NEXO**, a modular team and task management platform.
+- Working with React, Next.js, TypeScript, Python, and Django.
+- Exploring backend architecture, application security, and access control.
+- Practicing Linux administration, Docker, and networking.
+- Interested in maintainable code, reliable systems, and practical problem-solving.
+
+---
+
+### `02 / TECH STACK`
 
 **Development**
-- Python · Django
-- JavaScript · TypeScript
-- React · Next.js
-- HTML · CSS · Tailwind CSS
+
+`Python` · `Django` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
 
 **Systems & Infrastructure**
-- Linux · Ubuntu
-- Docker · Git
-- Networking · System Administration
 
-**Focus Areas**
-- Application Security
-- Access Control
-- Software Architecture
-- Testing & Reliability
+`Linux` · `Ubuntu` · `Docker` · `Git` · `Networking` · `System Administration`
+
+**Areas of Interest**
+
+`Application Security` · `Access Control` · `Software Architecture` · `Testing & Reliability`
 
 ---
 
-### Featured Projects
+### `03 / FEATURED PROJECTS`
 
-**NEXO — Team & Task Management Platform**
+#### NEXO — Team & Task Management
 
-A modular management platform focused on tasks, correspondence, users, roles, permissions, and secure data handling.
+A modular management platform focused on tasks, correspondence, users, roles, permissions, and safer data handling.
 
-[Explore NEXO](https://github.com/mohamed-farshbaf/NEXO)
+[View Repository →](https://github.com/mohamed-farshbaf/NEXO)
 
-**rootshade — Personal Technical Identity**
+#### rootshade — Technical Workspace
 
-A space for my technical interests, experiments, and development journey.
+My personal space for technical experiments, development, and system-related interests.
 
-[Explore rootshade](https://github.com/mohamed-farshbaf/rootshade)
+[View Repository →](https://github.com/mohamed-farshbaf/rootshade)
 
 ---
 
-### Current Focus
+### `04 / CURRENT FOCUS`
 
 - Improving software architecture and code quality.
 - Building reliable and maintainable applications.
 - Deepening Linux and networking knowledge.
 - Learning practical application and system security.
+- Expanding my experience with backend development.
 
 ---
 
-### Philosophy
+### `05 / PRINCIPLE`
 
 > Code is noise. Systems are signal.
 
-**Build. Understand. Secure. Improve.**
+**BUILD. UNDERSTAND. SECURE. IMPROVE.**
