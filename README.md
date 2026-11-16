@@ -1,58 +1,71 @@
-# whoami
-full-stack engineer | systems | security
+# Mohammad Farshbaf
+
+### Developer | Systems | Networking | Security
+
+I build software and explore the systems behind it.
+
+My interests include software engineering, backend architecture, Linux, networking, and practical security.
 
 ---
 
-# philosophy
-code is noise
-systems are signal
+### About Me
+
+- Building **NEXO**, a team and task management platform.
+- Exploring modern web development with Next.js, React, and TypeScript.
+- Working with Python, Django, HTML, CSS, and WordPress.
+- Learning Linux administration, Docker, networking, and system security.
+- Interested in reliable architecture, secure systems, and clean code.
 
 ---
 
-# focus
-- backend architecture
-- linux & os internals
-- networking & system security
-- performance & failure handling
-- ai as a tool, not magic
+### Tech Stack & Tools
+
+**Development**
+- Python · Django
+- JavaScript · TypeScript
+- React · Next.js
+- HTML · CSS · Tailwind CSS
+
+**Systems & Infrastructure**
+- Linux · Ubuntu
+- Docker · Git
+- Networking · System Administration
+
+**Focus Areas**
+- Application Security
+- Access Control
+- Software Architecture
+- Testing & Reliability
 
 ---
 
-# strengths
-- backend-first logic
-- security by default
-- close-to-the-metal thinking
-- building for real conditions
+### Featured Projects
+
+**NEXO — Team & Task Management Platform**
+
+A modular management platform focused on tasks, correspondence, users, roles, permissions, and secure data handling.
+
+[Explore NEXO](https://github.com/mohamed-farshbaf/NEXO)
+
+**rootshade — Personal Technical Identity**
+
+A space for my technical interests, experiments, and development journey.
+
+[Explore rootshade](https://github.com/mohamed-farshbaf/rootshade)
 
 ---
 
-# stack
-<img src="https://skillicons.dev/icons?i=python,js,php,mysql,linux,git,docker,nginx,vscode" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+### Current Focus
+
+- Improving software architecture and code quality.
+- Building reliable and maintainable applications.
+- Deepening Linux and networking knowledge.
+- Learning practical application and system security.
 
 ---
 
-# current_ops
-- building startup-grade systems
-- deepening knowledge in:
-  - linux internals
-  - networking & security
-  - system design
-  - applied ai
+### Philosophy
 
----
+> Code is noise. Systems are signal.
 
-# contact
-talk_to_me_about:
-  - backend
-  - linux
-  - networking
-  - security
-  - systems
-
----
-
-# status
-quiet
-focused
-building
+**Build. Understand. Secure. Improve.**
